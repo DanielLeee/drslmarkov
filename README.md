@@ -6,7 +6,7 @@ This is the official implementation of the following paper accepted to *AISTATS 
 > 
 > Yeshu Li, Zhan Shi, Xinhua Zhang, Brian D. Ziebart
 > 
-> [[PMLR link]](https://proceedings.mlr.press/v151/li22f.html) [[Video]](https://slideslive.com/38980727/distributionally-robust-structure-learning-for-discrete-pairwise-markov-networks?ref=speaker-17891)
+> [[PMLR link]](https://proceedings.mlr.press/v151/li22f.html) [[Video]](https://slideslive.com/38980727)
 
 ## Requirements
 
